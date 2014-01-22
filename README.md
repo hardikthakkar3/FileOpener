@@ -7,7 +7,7 @@ This plugin opens UIWebView Modaly with a done button to dismiss the view.
 
 You can open almost all type of images, documents, pdf, and all other document type which you can see in WebView.
 
-For a reference you can see https://developer.apple.com/library/ios/qa/qa1630/_index.html
+For a reference of supported document types you can see https://developer.apple.com/library/ios/qa/qa1630/_index.html
 
 Create a folder called org.apache.cordova.fileopener under your Plugins folder of your xCode project.
 
